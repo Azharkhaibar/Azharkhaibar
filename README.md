@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/azharsykrii" target="blank"><img src="https://img.shields.io/twitter/follow/azharsykrii?logo=twitter&style=for-the-badge" alt="azharsykrii" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript & React**
+- 🌱 I’m currently learning **Typescript & React Native**
 
 - 📫 How to reach me **azharasykari@gmail.com**
 
