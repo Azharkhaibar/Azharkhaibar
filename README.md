@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azhar Khaibar</h1>
-<h3 align="center">I'm a newbie programmer with less than a year of IT experience, mostly into C++ and Python cause they re my go to easy languages. Now, Im diving into JavaScript and React, aiming to be a web dev. Super ambitious and growing every day!</h3>
+<h3 align="center">Junior Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azharkhaibar&label=Profile%20views&color=0e75b6&style=flat" alt="azharkhaibar" /> </p>
 
