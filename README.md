@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Azhar Khaibar</h1>
 <h3 align="center">🚀 Full Stack Developer | Passionate about UI/UX & Scalable Systems</h3>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Your GIF" />
+</p>
+
 ---
 
 ## 🌟 About Me  
@@ -69,15 +73,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharkhaibar&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azharkhaibar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharkhaibar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <div style="display: flex; justify-content: space-evenly; align-items: center; width: 100%; flex-wrap: wrap;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharkhaibar&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 30%; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=azharkhaibar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="width: 30%; margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharkhaibar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </div>
 </p>
 
 ---
@@ -86,6 +86,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azharkhaibar&theme=discord&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
