@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Azhar Khaibar</h1>
 <h3 align="center">A passionate Design, Frontend & Backend developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azharkhaibar" alt="azharkhaibar" /></a> </p>
-
-- 🔭 I’m currently working on **nesiatravel and noblelifemission**
+- 🔭 I’m currently working on **WhaleCinema and FYPMedia Project**
 
 - 🌱 I’m currently learning **Golang, Flutter**
 
